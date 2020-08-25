@@ -1,5 +1,5 @@
 ### Hi there, I'm Julian / Nineluj 👋
-> I'm looking for a full time job starting in January 2021
+> Please contact me about Software and Security opportunities! I'm looking for a full time job starting in January 2021
 
 - 🎓 In my last semester at Northeastern University
 - 🔭 The current project I'm working on is [cloudcrackr][cloudcrackr]
