@@ -1,8 +1,7 @@
 ### Hi there, I'm Julian / Nineluj 👋
 - Working at DraftKings
 - 🎓 Northeastern University CS Graduate
-- 🏴 My main interests are cloud computing AND security
-- 🌱 I’m currently learning more techniques to do well at CTFs
+- 🏴 My main interests are cloud computing and security
 
 ---
 
