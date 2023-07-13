@@ -1,10 +1,8 @@
 ### Hi there, I'm Julian / Nineluj 👋
 - Working at DraftKings
 - 🎓 Northeastern University CS Graduate
-- 🔭 The current project I'm working on is [cloudcrackr][cloudcrackr]
-- 🏴 My main interests are security and cloud computing
+- 🏴 My main interests are cloud computing AND security
 - 🌱 I’m currently learning more techniques to do well at CTFs
-- ⚡ Fun fact: I speak 4 languages and I love to playing guitar and squash
 
 ---
 
